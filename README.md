@@ -1,6 +1,6 @@
 # waveform_demo
 
-Demo showing how to render a waveform in Flutter
+Demo showing how to render a waveform in Flutter, see https://matt.aimonetti.net/posts/2019-07-drawing-waveforms-in-flutter/
 
 ## Getting Started
 
